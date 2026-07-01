@@ -403,7 +403,7 @@ unset($_SESSION['mobile']);
             <span style="color:red"><?php echo $passErr ?? ""; ?></span>
             </label>
             <!--recaptcha -->
-            <div class="g-recaptcha" data-sitekey="6LcBFxYtAAAAADGQl2HTNzf4IuVjFomySMy8nE7U"></div>
+             <div class="g-recaptcha" data-sitekey="6LflnT8tAAAAAK71JEfUdiEDXiAzV162FxucU4Jz"></div>
             <span style="color:red"><?php echo $captchaErr ?? ""; ?></span>
 
             <a href="modules/auth/reset_password.html" style="text-decoration: none; margin-right: 170px; color: #BC8F8F;">Forgot your password?</a>

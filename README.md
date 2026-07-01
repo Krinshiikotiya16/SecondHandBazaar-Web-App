@@ -92,7 +92,7 @@ SecondHand-Bazaar was developed as a practical learning project to explore real-
 *Hosting Link:
 
 Website URL:
-[https://Bazaar/unilive360.in]
+[https://bazaar.unilive360.in/]
 
 GitHub Repository:
 [https://github.com/Krinshiikotiya16/SecondHandBazaar-Web-App]
