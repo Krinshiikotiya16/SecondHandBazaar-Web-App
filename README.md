@@ -1,5 +1,5 @@
 # SecondHandBazaar-Web-App
-# SecondHandBazaar-Web-App
+
 # 🛒  Second-Hand Marketplace Web Application
 
 ## 📌 About the Project
